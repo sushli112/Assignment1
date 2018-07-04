@@ -2,15 +2,6 @@
     height: 10vh;
 }
 
-.hero-image {
-background-image: url("../../img/heroImg.jpg");
-height: 300px;
-width: 100%;
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-position: relative;
-}
 
 .add-heroImg{
 width: 960px;
@@ -56,4 +47,13 @@ flex-wrap: wrap;
 }
 .rightSubSection{
     height: 150px;
+}
+
+.space{
+    height: 10px;
+    background: white;
+}
+.grid_3,.grid_10,.grid_8{
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
